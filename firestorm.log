@@ -1,0 +1,260 @@
+DEBUG pool-1-thread-1 org.apache.http.headers - http-outgoing-0 << Date: Thu, 07 Jan 2021 09:26:18 GMT
+DEBUG pool-1-thread-1 org.apache.http.headers - http-outgoing-0 << Content-Type: text/html; charset=utf-8
+DEBUG pool-1-thread-1 org.apache.http.headers - http-outgoing-0 << Transfer-Encoding: chunked
+DEBUG pool-1-thread-1 org.apache.http.headers - http-outgoing-0 << Set-Cookie: AlteonP=AFWtR2HbHKwXgTxw1Y+sKg$$; Path=/
+DEBUG pool-1-thread-1 org.apache.http.headers - http-outgoing-0 << Last-Modified: Tue, 29 Dec 2020 03:17:20 GMT
+DEBUG pool-1-thread-1 org.apache.http.headers - http-outgoing-0 << Vary: Accept-Encoding
+DEBUG pool-1-thread-1 org.apache.http.headers - http-outgoing-0 << ETag: W/"5fea9fc0-4cb9"
+DEBUG pool-1-thread-1 org.apache.http.headers - http-outgoing-0 << Content-Encoding: gzip
+DEBUG pool-1-thread-1 org.apache.http.impl.execchain.MainClientExec - Connection can be kept alive indefinitely
+DEBUG pool-1-thread-1 org.apache.http.client.protocol.ResponseProcessCookies - Cookie accepted [AlteonP="AFWtR2HbHKwXgTxw1Y+sKg$$", version:0, domain:fgj.sh.gov.cn, path:/, expiry:null]
+DEBUG pool-1-thread-1 org.apache.http.wire - http-outgoing-0 << "[0x9c]PC[0xd0][0xa7][0x2][0xca]@[0xf5]I[0x80]C[0xcd][0x80][0x8f]IT[0xe9](K[0xb]e#[0xad]Zx[0xf9]*m[0xf5][0xf9][0x8f]a]E)7[0xb0]:[\r][0xea][0xed][0x86][0xcc]]!:[0xbc][0x1b]c[0xa5][0xb9][0x5][0x1c][0x18][0xa6][0x1b]R[0x13][0x81][0x8d]-[0xa7] [0xc7]Y[0x9a][0xce][0x9d]O[0x94]%[0x94]V[0xef]x[0xe3][0xcf][0x9b][0x94][0xc0][0x8]e[0x9]k[0x1b][0xd3][0xd7][0x8b]wg[0x8b][0x93]S{[0x93]P[0x1a]}V[0x1c][0xbc][0xb8][0xb]/[0xd5]p,[0xa8]]G[0xd2][0xb7][0xea][0xb8][0xbe][0x1e]E[0xca][0xd5]"[0xc6]$[0xf0]/[0x14]K[0xb3]8Ng[0x15][0x8a][0xd1]D[0xc4]"[0x96][0x95]U[0x86][0xe3]UM[0x91][0xa1]*[\n]"
+DEBUG pool-1-thread-1 org.apache.http.wire - http-outgoing-0 << "[0xb8]R[0xe1][0x90][0x6]u[0x96][0xaf]X[0x1c]`[0xf7][0xf8][0xe9][0xe0]Y[0x9c][0x83][0x98][0xbd][0xaf]-[0x90]7[0xf4]Sa[0xf9]+ol[0xc1][0x1b][0xbf][0xf9]jp[0xf4]u`[0xef][0xcd][0xcc]y[0xf][0xae]y[0x8b]C[0x85][0xb5][0xf1][0xd2][0xcc]K[0xef][0xfa][0xb2][0xf7][0xf2]b[0xf1][0xd6]3o~[0x4][0xdb]Z[0x1c][0xf6][0x17][0x97]o[0x14]V[0x9e][0x17][0x1f][0xae][0x96][0x83][0xff][0xd1][0x7][0xc5][0x9f]n[0xbf][0x1a][0xbc]V[0x9a][0xb8][0xbc]98Q[0x9a][0x9a]Mt[0xbd][0x9][0xd9][0xc9]d24[0x8d]n[0xdd][0x1]M}@[0x92][0x18]9[0x18]3$Y[0x97][0x6][0xb3][0x17][0xfc][0x1e][0xeb][\n]"
+DEBUG pool-1-thread-1 org.apache.http.wire - http-outgoing-0 << "[0x8d]Y[0x3]+[0xfb]j[0xf0][0x96]?[0xd6][0xaf][0x6]o7 b[0x4][0xac][0xae][0x9e][0xae]][0xdb][0xba][0x85][0xd1][0xc6]-[0xc6][0xed]`H[0xda][0xff]G[0x4][0xe3][0xb0][0xeb][0x18][0xf8]OO[0x80][0xdf]]Fbr[0xa4]x{[0xb8][0xa1][0xbc]F[0x8]o[0x8]O$[0x8]HW[0x14][0xc8]r[0x1a][0xcb][0x8b][0x8a].[0x3]@sP[0x10][0x14]M[0x13]x([0xc3]8[0xf0][0xdc]X[0xbf]WX[0x1a],>[0x9a]-{[0x9e][0xc9][0x1f]0[0x8a]0x[0xbc][0xf9]!oa[0xdc][0xc7][0xf][0xf6][0x99]C[0x8b][0x18]B[0xa5]{[0xa3][0x85][0xb5][0xf5][0xd2][0xad][0xef]B[0xe4][0x94][0xee]-a[0x9][0xde][0xf3][0xd9][0xc2][0xda][0xe4]6`[0xb6]Vj[[0xa2][0x92]?8T[0xf2][0x87][\n]"
+DEBUG pool-1-thread-1 org.apache.http.wire - http-outgoing-0 << "[0x95][0xc][0x8b]$][0xe1]D[0x88]h[0x8e]G[0xba][0xa4][0xaa]*B[0x92][0xc4][0x8][0x1c][0xab][0x8a]H[0xd9][0xa3][0xd1][0xc]gC[0x8a][0xf7]/y[0x8b][0xf]6[0x16].[0x15][0xa7]f[0x8b][0xc3]7[0x8a][0xf]&C[0xd8][0xe0]{[0xea][0xcd]O[0xc4]3[0x91][0xcd]JjK[0xf4][0xb1][0xef]l[0xe2][0xce][0xe8][0xe3]Y[0xc4]#A[0x83][0x1c][0xcb]h<[0xa7] [0x1f][0x88][0x8a][0xc8][0xb3][0xd8][0x83]k[0x82].[0x89][0xad]B_h[0xa2][0xf6][0x87][0xbb]z2[0xda][0x12]q[0xcc];[0xc4][0xed][0x84]8[0x96][0x12]E [0xb0][0x90][0x11]uMWx[0x89][0xd5]U[0x86][0x5],[0xcf][0xab]4[0x8f][0x10]G[0xeb][0xa0]1[0xe2]0B[0xca].[0x13]C[0xe2][0xf6][0x93][0xd0]S[0x16][0xef],x+[0xcb][0xa1][0xbf],,[0xcf][0x14]V[0xbe][0x9]}[0xe4][0xc6][0xfc][0x92]7[0xfe][0xd8][0x1f]K[0x9c][0xce][0xce]O[0x17]G^[0xe0][0x8e][0x5][0xec][0xd7]6[0xa7]_[0xbc][0xc6][0x8f][0x8f][0xa5]G#la[0xe9][0xfb][0x9a]t2[0x1c][0x6]|[0x17]"p}[0x13][\r]h[0xd7]H[0x92]; [0xc][0xd3]8[0x81]&Y[0xf6][0xf0]XM[0x8e][0x93]p[0xd0][0xc8][0xd2][0xba]$[0xf3]<[0xad][0x8b][0x80][0x15]8[0xec][0xb8]Y[0x1d][0x89][0xbc][0xa4][0xf1][0xb1]"Io[0xe5][0xd9][0xe6][0xed][0xf5][0xb7][0x8e][0xe7]7[0xd1][0x98]wx[0xc6]xf[0x84][0xc3][0x81]g[0x86][0x91])[0xdf][0xfa][0xca][0x12][0xf]y[0xe]B[0x1e][0x89]@[0x5][0x12].[0xd7]d[0x85][0xe6][0x81][0xac]p[0xec][0xde][0xa2][0x0][0x8c][0x19]|[0xef]JsS[0x1b]O/z7[0x86][0xbd][0x1b][0xd7]Kk7K[0x8f]^z3W[0x8b][0xd3][0xc3][0xcd][0xa4][0xe9][0xcd]JjK[0xf4][0xd1][0xef]"[0x82][0xed][0xe8][0xc3][0xf6][0x94]bx[0xc0]C[0x84]x[0xa8][0xb0][0x90][0x97][0x0][0x4]"TqH[0xa0][0xab]@ex[0x96][0xa5][0xe3][0xa0][0xaf]xw[0xe][0xa7][0xc9][0xc5][/6[0x7][0x1f][0x86][0x93]7!f[0xbc][0xf1][0xd1][0x9f][0x7]'[0xbd][0xa9][0xaf][\n]"
+DEBUG pool-1-thread-1 org.apache.http.wire - http-outgoing-0 << "K[0x8f][0x8a][0xf7]o[0xfe]<x[0xbf]L3[0xb9][0xe0][0xdd][0xbf][0xeb][\r][0x8d][0x95]V[0x9f][0xe0]Z*hj[0xb9]4=[0xb8]1[0xff][0x12][0xf][0xf6][0xe6][0xd0][0x98]7{w[0xe3][0xc9][0x8b]m[0xd8]l[0xad][0x9e]65[0x94][0xca][0x81][0xd9]IZ![0x19][0xf9]P [0x95]Vh[0x96][0xd2][0x91][0xc2] [0x91][0x3][0x8c]H[0xab]<#[0x8a][0xb2][0x80]t([0xe9][0xb2][0xc][0x15]F[0x91]ezov[0xb2]4[0xf2][0xdf][0xc2][0xd2]Dqr[0xcc][0x1b][0x9d].[0xac]^[0xc4][0xe7][0xde][0xd7][0xd7]}[0x87]~o[0xbe][0xb4]2[0xee][0xcf]:[0xce],[0x16][0xd6][0xa7][0xf1][0xb8][0x16][0x96][0x96]7[0xe6][0x17][0xbc][0xe1] [0xed][0x1e][0xfe]W<[0xe3][0xb9][0x1f][0xf1]m[\n]"
+DEBUG pool-1-thread-1 org.apache.http.wire - http-outgoing-0 << "P[0xf9][0xe0][0x1c]9}XL)-cS*CA[0x93]u[0x81][0x16][0x0]/a[0x8f][0xae][0x1]V[0x91]XF[0x92]D[0x9d]g[0x81]*[0xc4]K[0xe7]G[0x1f]z[0xab][0xcb][0xe5]9[0xc8][0xd5]oJs[0x83][0xde]WW[0xbc][0xf1][0x1f]q[0x14]Xzt[0xb3]<[0xef][0xb8][\r]v[0xcd]0[0xb5]#[0xa4][0xa4][0x83][0xb3]y[0xf2][0xa1][0x81][0x94][0x88][0xf3]u^[0x90]TZ[0xe5]$Yg5^[0x91]E[0xa0]C[0xc4]1[0xb2][0xae][0x3][0x99][0xd6][0x18][0xa4][0xed][0xf1][0xa5]N[0xe4]5K9[0xba]k[0xfe][0xe5]Ml[0x19][0xed][0x8]8[0xf1][0xe0][0x0]'b[0xcc][0x1d][0x1e][0xc0][0x9][0x90][0xa6]9[0x84]DEd[0x15][0x9e]V5E[0xe3]d[0x6]r[0x9a][0xa8][0xf1][0xbc]H[0xcb][0xdc][0x1e][0x1]7[0xf9][0x1d][0xbe]{[0xe5]4v}[0xbe][0xb4]:[0x1f][0xfa]B[0xec][0xf9][0xfc]d[0xf6][0xf1][0xe5][0xc2][0xca]so[0xfe][0x1][0x1e][0xda][0xd2][0xca][0x95][0xd8][0xbe]u?R[0xdb][0x11][0x94][0xdc]AZA[0x86]>DV[0x90]A[0xac]&IP[0x80][0x8a][0xce][0xb][0xac][0xae][0x8][0xac]Js[0x1c]`EU[0xe1]qP[0x18]s[0xd6][0xd2][0xbb]8[0xe1][0xcd][0xae][0x85]n[0xd2][0xbb][0xb7][0xe6][0xcf][0x98]LN[0xe1][0x1c][0xc1][0x7]T0[0xdf][0x1d][0xda]4[0x9c]DxC?[0xe0][0xda]rr[0x11]:[0xd1][0xc5][0x15][0xef][0xc1][0xb5][0xcd][0x91]'[0xde][0xfc]D[0xcd][0x1b][0xbf]p[0xc6][0xa7][0x99][0xd9][0xcb][0x16]6[0xa4]McD[0xfe][0xe0][0xa0][0xcc][0x93][0xac]r8[0xa0],[0xb0][\n]"
+DEBUG pool-1-thread-1 org.apache.http.wire - http-outgoing-0 << "E3[0x8c]DK[0xc][0x94]Y[0xa8][0xf1][0xaa][0xac][0xc8]*PdN[0xe4]il^%[0x5]2[0xf1][0xed]+Qe[\n]"
+DEBUG pool-1-thread-1 org.apache.http.wire - http-outgoing-0 << "[0x87][0x16]}[0x9c],[0xcf][0x15][0xef]_*[0xac][0xdf][0xdf][0x9c][0x98],c[0xe6][0xea][0x15]oh[0xb6][0xf8][0xf0][0xaa][0xf2][0xf5][0xf5][0xc2][0xcb]{[0xde][0xf2][0xad][0xf0][0xb2][0xbe][0x8d]m[0x99][0xe4]6[0x5][0xa7]pp[0xe0][0x14][0xe]M[0xb4][0xc9]q[0xc][0x5]t[0x9][0x9f]A][0x96]d[0xc8]#NS[0xa1][0xec]OK[0xb2][0x8a][0xa8][0x1][0x85][0x17][0xe0][0xde][0xdf]Gb[0xdb][0xb6]<WX][0xf0]?[0xe7][0x19][0x9d][0xf5]n[0x8e][0x96][0xd6]nb[0x82]p[\n]"
+DEBUG pool-1-thread-1 org.apache.http.wire - http-outgoing-0 << "1[0xfa]2[0xfb][0x97][0xd5][0xe1][0x8d][0xc7][0xb7][0xf1][0x18][0xff][0xb2]:[0x12][0xff]U[0xe5]^[0xc5][0xbf]%[0x80]2r[XO[0x6][0xe7]BR[0xcb][0x1][0xea][0xcd],[0xbe][0x11][0x80][0xf2]4G[0xb1][0x9a][0xc]9[0x1a][0x83][0x94][0xd3]Y^UUEPU[0x9e][0xa5][0x15]U[0x94][0x81][0xa8]"f[0x8f][0x0][0xbd];W[0xce]`VV[0xbd][0x1b][0xc3][0xe1][0xdc]aM6C[0x10]q[0xa0][0xd8][0x9c][0xa0]v[0xb4][0x8d][0xec][0xc1][0xd9]F[0xee][0xb0][0xbc][0xa5][0x9]l[0xa3][0xcc][0xd1][0x82][0xc8][0xcb][0x8][0xfb]i[0x81][0x97]y][0x86][0x12]/[0x8][0x8a]@K4/[0x8a][0xf4][0xfe][0xbe][0x14][0xfa]v[0xb0][0xf8][0xb4][0x12][0xd3][0x8d][0xdd].[0xac][0x8d][0xe1][0xb8][0xaf]4[0xb3][0xbc][0x5][0x9a][0xf8][0x9f]l[0xc4][0x17][0xd5][0x96][0xef]i[0xe][0xe]~[0xec][0xa1]r[0xcd]8\[0x94][0x90]$[0x8]P[0xd4]y[0x1e][0x9][0xba][0xc] [0xce][0x14][0xa0]2[0xb2]*[0xd1]"[0xda]c^[0xbe]2R[0x9a][0x9b]*[0xdb][0xac][?m<~[0xee]=~[0xb1][0xb1]8[0x1d][0x96]l[0xde][0xff]wi[0xee]q[0xf1][0xe1][0x92][0xff][0xf9]O3SC[0xfb][0x90][0xfa]V[0xdc][0xb1][0xb2][0xb]([0xf][0xf0][0x95][0xc]s[0xa8]P)![0x91][0x87][0x8a][0xc][0x19]IE<N[0xcf]e[0x89]A"[0xcd]A[0xcd][0x87][0xcd]+B[0xdc][0xc4][0xbc][0xc][0xa1][0xe1][0x9a]w[0xce]a[0xbe][0x81][0xb3][0x8b][0x9a][0xe5][0xa5][0xe5][0xef][0x1e]f.[0x97][0xd6]&6[0xbe][0xbd][0xb8]yu[0xdc][0x9b]Z[0xc6][0x89]G[0xe5][0xeb][0xb4][0x91][0x9a][0xdc][0x9c][0xe1][0x9b][0xfc][0xbc][0xa8][0x85][\r]z[![0xe6]n[0x98]>[0xa0][0xb7]8[0x8c][0x12]|[0x8e][0xa1][0x1c][0x1e]L3[0x1c]v[0xec][0xaa][0x8e]TA[0xd1]y[0x9][0x9]@Q[0x18][0x1c]j[0xb2]<[0x87][0x80][0xce][0xa9][0xca][0x1e]-m[0x9d]4[0xba][0x85]Vw[0x1f][0x1a][0xda][0x15][0xa4][0xd2][0xff][0x85][0xe1][0xad]_[^[0xf]T[0xaf][0xda]_[0xbf]U[0x1f][0xe4][0xf9]Le-X[0xe][0xf4][0xa0]F+[0xbc]"K[0xd3][0xb6][0x96][0xc0]6\{[0xd6][0xdc]J[0xd1]`-we[0xb9][0xb5]a&[0x99]$[0xc3]&[0xf9][0xea][0x95][0xa3]-S[0x16]Y[0xc4][0xeb][0xeb]j[0x89][0x92][0x18][0xab]/w[0xa7][0xf8][0xd5][0x91]D22[0xbc]G#[0x17]G[0xbe][0x88][0xb7][0xda][0xd4][0xb5]\[0x90][0xf9][0xb][0xbe][0x9b][0xc7][0x9][0xee]X<[0x16]'m[0xf5][0xfb][0x1c][0x9f][0xe4][0xb3][0xc7][0x9]!&[0x93][0xe1][0x9c][0xc6]l[0xbf][0xfd][0xe3]qB[0x7][0x19][0x7]5[0xc5][0xe5]+;m\@[0xce][0xb9]{a?[0xdd]k[0xe4][0xf6][0xc2][0xf7])[0xd2]m[0xe4][0xa4][0x8f][0x13][0xae][0x9d]o[0x8e][0xf3][0xcc][0xd6][0xa0]6[0xc5][0xfb])[0xc2][0x90][0xb][0xf9][0x9a]i.E[0x11][0x10]d2[0xbf][0x1][0xb0][0x17]3[0xe6]M[0xe8][0x3][0x80]8[0x2][0xf3][0xb6][0xed][0xb];F[0xe4][0xca][0x3]x[0x94][0xf8]"[0xb6]D[0xff][0x80][0x96][0xe9]X[0x19][0x94][0xcc]X=G:*[0xe2][0x8e]w[0x10][0x1f][0x11][0x95][0xb]|[0xda][0x11][0x90]VT[0x4][0xb5][0xaf][0xf5][0x9d][0x88][0xad][0xee][0xcb]x[0x94][0x8d][0xfa][0x19][0xbb]w[0xfe][0xd1][0x7]l[0xc2][0xe8][0xac][0xb0][0x9e][0x88][0xcf]h[0xe8]G[0x8c][0xce]N[0xe6]hs[0x8b][0xb9]+[0x1b]e$[0x83][0x8][0xa1]ck[0xc1]vG[0x13][0xaa][0x11][0x86][0xc4][0xfe][0xd5][0x9e][0xed][0xf8][0xc8][0xf8][0xa8][0xa3])[0xe5]1n[0xce][0x97][0xb1][0xee]u#[0x83][0x95](c?q[0x8c]9[0xc6]5[0x92][0x16][0xc7][0xf6][0x86][0xab][0xc4]w1[0xa3])*[0x9f][0xa9]#$[0x14]P[0xb5]z[0xbb]j[0xe1][0xf9][0x8e]%[0xb5][0x5]5[0xd7]5K[0xd7][0xa3]W[0xd1][0x8b][0xe8][0xc6][\n]"
+DEBUG pool-1-thread-1 org.apache.http.wire - http-outgoing-0 << "[0x91][0xd3][0xe6]\Vy{[0x8e][0xea][0x9d][0x14][0x88]*I[0xbb][0xb9]T[0xe][0xfb]Sf[0x87][0xbd][0x18][0x1a][0xf2]om[0xaf][0x12][0x93][0xb1][0x89]mT[0x9a][0x93][0xe8][0xb8][0x6][0xec][0xfd],W[0xf9]m[0xc0][0x1d]gH[0xeb][0xed][0xc9][0xd2]DO[0xf1][0x10][0x85][0x8f]}|z[0xb3][0x8b][0xa6][0x1b][0xde][0xa5]Y0[0x9f]E[0xa6][0x9b][0xec][0xb7][\r][0x17][0x1d][0xc9][0x9b][0xc8][0x81] [0x87][0x8e]$>[0xe4][0xba][0xfd][0xfd][0x14][0xfc][0x5][0xfe][0x1d]g[\r][\r]u[&[0x80][0x1d][0xc4][0x87][0xdc])\[0x13]l[0xb5][0x10][0x9e]FZ[0xd3][0xe1][0xef][0x98]u[0x9c][0xa2]4[0xe8]$[0xa1]O[0x9e][0x84][0xa6][0xdf]2[0x9a][0xa5]h[0x9a][0xf6][0xff]hJ[0xa4][0x15][0x91][0xa6]E[0x91][0xea][0xfe][0xb5][0x9f][0xf1][0x4]G[0xa5][0xcc][0xdf][0xf2][0x9][0xf7][0xa0]#lkGM[;*[0xaa][0x83]+|[0x91]8z[0xf4]D[0x4][0xaf][0xc1][0xe]%[0xe5][0x88]5E[0x5][0xfb][0x94][0xfd][0xf]c<K[0xf4][0xb9]L[0x0][0x0][\r][\n]"
+DEBUG pool-1-thread-1 org.apache.http.wire - http-outgoing-0 << "0[\r][\n]"
+DEBUG pool-1-thread-1 org.apache.http.wire - http-outgoing-0 << "[\r][\n]"
+DEBUG pool-1-thread-1 us.codecraft.webmagic.utils.CharsetUtils - Auto get charset: utf-8
+INFO pool-1-thread-1 us.codecraft.webmagic.downloader.HttpClientDownloader - downloading page success http://fgj.sh.gov.cn/gfxwj/index.html
+DEBUG pool-1-thread-1 org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection [id: 0][route: {}->http://fgj.sh.gov.cn:80] can be kept alive indefinitely
+DEBUG pool-1-thread-1 org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection released: [id: 0][route: {}->http://fgj.sh.gov.cn:80][total kept alive: 1; route allocated: 1 of 100; total allocated: 1 of 5]
+ERROR pool-1-thread-1 us.codecraft.webmagic.Spider - process request Request{url='http://fgj.sh.gov.cn/gfxwj/index.html', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalArgumentException: invalid regex http://fgj\.sh\gov\.cn/gfxwj/index\.html
+	at us.codecraft.webmagic.selector.RegexSelector.compileRegex(RegexSelector.java:38)
+	at us.codecraft.webmagic.selector.RegexSelector.<init>(RegexSelector.java:47)
+	at us.codecraft.webmagic.selector.Selectors.regex(Selectors.java:12)
+	at us.codecraft.webmagic.selector.AbstractSelectable.regex(AbstractSelectable.java:77)
+	at com.yjyyun.processor.processor.FgjProcessor.process(FgjProcessor.java:30)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 15
+http://fgj\.sh\gov\.cn/gfxwj/index\.html
+               ^
+	at java.util.regex.Pattern.error(Pattern.java:1969)
+	at java.util.regex.Pattern.escape(Pattern.java:2485)
+	at java.util.regex.Pattern.atom(Pattern.java:2212)
+	at java.util.regex.Pattern.sequence(Pattern.java:2144)
+	at java.util.regex.Pattern.expr(Pattern.java:2010)
+	at java.util.regex.Pattern.compile(Pattern.java:1702)
+	at java.util.regex.Pattern.<init>(Pattern.java:1352)
+	at java.util.regex.Pattern.compile(Pattern.java:1054)
+	at us.codecraft.webmagic.selector.RegexSelector.compileRegex(RegexSelector.java:35)
+	... 12 more
+INFO main us.codecraft.webmagic.Spider - Spider blog.sina.com.cn closed! 1 pages downloaded.
+ERROR pool-1-thread-1 us.codecraft.webmagic.Spider - process request Request{url='http://fgj.sh.gov.cn/gfxwj/index.html', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalArgumentException: invalid regex http://fgj\.sh\gov\.cn/gfxwj/index\.html
+	at us.codecraft.webmagic.selector.RegexSelector.compileRegex(RegexSelector.java:38)
+	at us.codecraft.webmagic.selector.RegexSelector.<init>(RegexSelector.java:47)
+	at us.codecraft.webmagic.selector.Selectors.regex(Selectors.java:12)
+	at us.codecraft.webmagic.selector.AbstractSelectable.regex(AbstractSelectable.java:77)
+	at com.yjyyun.processor.processor.FgjProcessor.process(FgjProcessor.java:30)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 15
+http://fgj\.sh\gov\.cn/gfxwj/index\.html
+               ^
+	at java.util.regex.Pattern.error(Pattern.java:1969)
+	at java.util.regex.Pattern.escape(Pattern.java:2485)
+	at java.util.regex.Pattern.atom(Pattern.java:2212)
+	at java.util.regex.Pattern.sequence(Pattern.java:2144)
+	at java.util.regex.Pattern.expr(Pattern.java:2010)
+	at java.util.regex.Pattern.compile(Pattern.java:1702)
+	at java.util.regex.Pattern.<init>(Pattern.java:1352)
+	at java.util.regex.Pattern.compile(Pattern.java:1054)
+	at us.codecraft.webmagic.selector.RegexSelector.compileRegex(RegexSelector.java:35)
+	... 12 more
+ERROR pool-1-thread-1 us.codecraft.webmagic.Spider - process request Request{url='http://fgj.sh.gov.cn/gfxwj/index.html', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.IllegalArgumentException: invalid regex http://fgj\.sh\gov\.cn/gfxwj/index\.html
+	at us.codecraft.webmagic.selector.RegexSelector.compileRegex(RegexSelector.java:38)
+	at us.codecraft.webmagic.selector.RegexSelector.<init>(RegexSelector.java:47)
+	at us.codecraft.webmagic.selector.Selectors.regex(Selectors.java:12)
+	at us.codecraft.webmagic.selector.AbstractSelectable.regex(AbstractSelectable.java:77)
+	at com.yjyyun.processor.processor.FgjProcessor.process(FgjProcessor.java:30)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 15
+http://fgj\.sh\gov\.cn/gfxwj/index\.html
+               ^
+	at java.util.regex.Pattern.error(Pattern.java:1969)
+	at java.util.regex.Pattern.escape(Pattern.java:2485)
+	at java.util.regex.Pattern.atom(Pattern.java:2212)
+	at java.util.regex.Pattern.sequence(Pattern.java:2144)
+	at java.util.regex.Pattern.expr(Pattern.java:2010)
+	at java.util.regex.Pattern.compile(Pattern.java:1702)
+	at java.util.regex.Pattern.<init>(Pattern.java:1352)
+	at java.util.regex.Pattern.compile(Pattern.java:1054)
+	at us.codecraft.webmagic.selector.RegexSelector.compileRegex(RegexSelector.java:35)
+	... 12 more
+ERROR pool-1-thread-1 us.codecraft.webmagic.Spider - process request Request{url='http://fgj.sh.gov.cn/gfxwj/index.html', method='null', extras=null, priority=0, headers={}, cookies={}} error
+java.lang.NullPointerException
+	at com.yjyyun.processor.processor.FgjProcessor.process(FgjProcessor.java:32)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+ERROR pool-1-thread-4 us.codecraft.webmagic.Spider - process request Request{url='http://fgj.sh.gov.cn//gfxwj/20201229/12e7f936ce034ef7bbbee771532b6e94.html', method='null', extras=null, priority=0, headers={}, cookies={}} error
+org.jsoup.select.Selector$SelectorParseException: Could not parse query 'div[id='ivs_content']': unexpected token at 'id='ivs_content''
+	at us.codecraft.xsoup.xevaluator.XPathParser.byFunction(XPathParser.java:260)
+	at us.codecraft.xsoup.xevaluator.XPathParser.consumePredicates(XPathParser.java:231)
+	at us.codecraft.xsoup.xevaluator.XPathParser.findElements(XPathParser.java:163)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:76)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:408)
+	at us.codecraft.xsoup.xevaluator.XPathParser.combinator(XPathParser.java:110)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:74)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:408)
+	at us.codecraft.xsoup.Xsoup.compile(Xsoup.java:25)
+	at us.codecraft.webmagic.selector.XpathSelector.<init>(XpathSelector.java:21)
+	at us.codecraft.webmagic.selector.Selectors.xpath(Selectors.java:32)
+	at us.codecraft.webmagic.selector.HtmlNode.xpath(HtmlNode.java:42)
+	at com.yjyyun.processor.processor.FgjProcessor.process(FgjProcessor.java:67)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+ERROR pool-1-thread-5 us.codecraft.webmagic.Spider - process request Request{url='http://fgj.sh.gov.cn//gfxwj/20201229/42e4e5dc321d439e936c9642b13d5f76.html', method='null', extras=null, priority=0, headers={}, cookies={}} error
+org.jsoup.select.Selector$SelectorParseException: Could not parse query 'div[id='ivs_content']': unexpected token at 'id='ivs_content''
+	at us.codecraft.xsoup.xevaluator.XPathParser.byFunction(XPathParser.java:260)
+	at us.codecraft.xsoup.xevaluator.XPathParser.consumePredicates(XPathParser.java:231)
+	at us.codecraft.xsoup.xevaluator.XPathParser.findElements(XPathParser.java:163)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:76)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:408)
+	at us.codecraft.xsoup.xevaluator.XPathParser.combinator(XPathParser.java:110)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:74)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:408)
+	at us.codecraft.xsoup.Xsoup.compile(Xsoup.java:25)
+	at us.codecraft.webmagic.selector.XpathSelector.<init>(XpathSelector.java:21)
+	at us.codecraft.webmagic.selector.Selectors.xpath(Selectors.java:32)
+	at us.codecraft.webmagic.selector.HtmlNode.xpath(HtmlNode.java:42)
+	at com.yjyyun.processor.processor.FgjProcessor.process(FgjProcessor.java:67)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+ERROR pool-1-thread-1 us.codecraft.webmagic.Spider - process request Request{url='http://fgj.sh.gov.cn//gfxwj/20201222/66a52c16fdf9472fb12a244b04ee30fa.html', method='null', extras=null, priority=0, headers={}, cookies={}} error
+org.jsoup.select.Selector$SelectorParseException: Could not parse query 'div[id='ivs_content']': unexpected token at 'id='ivs_content''
+	at us.codecraft.xsoup.xevaluator.XPathParser.byFunction(XPathParser.java:260)
+	at us.codecraft.xsoup.xevaluator.XPathParser.consumePredicates(XPathParser.java:231)
+	at us.codecraft.xsoup.xevaluator.XPathParser.findElements(XPathParser.java:163)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:76)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:408)
+	at us.codecraft.xsoup.xevaluator.XPathParser.combinator(XPathParser.java:110)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:74)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:408)
+	at us.codecraft.xsoup.Xsoup.compile(Xsoup.java:25)
+	at us.codecraft.webmagic.selector.XpathSelector.<init>(XpathSelector.java:21)
+	at us.codecraft.webmagic.selector.Selectors.xpath(Selectors.java:32)
+	at us.codecraft.webmagic.selector.HtmlNode.xpath(HtmlNode.java:42)
+	at com.yjyyun.processor.processor.FgjProcessor.process(FgjProcessor.java:67)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+ERROR pool-1-thread-3 us.codecraft.webmagic.Spider - process request Request{url='http://fgj.sh.gov.cn//gfxwj/20201229/e55ef99c23d2469f8aa03c559dd54c8c.html', method='null', extras=null, priority=0, headers={}, cookies={}} error
+org.jsoup.select.Selector$SelectorParseException: Could not parse query 'div[id='ivs_content']': unexpected token at 'id='ivs_content''
+	at us.codecraft.xsoup.xevaluator.XPathParser.byFunction(XPathParser.java:260)
+	at us.codecraft.xsoup.xevaluator.XPathParser.consumePredicates(XPathParser.java:231)
+	at us.codecraft.xsoup.xevaluator.XPathParser.findElements(XPathParser.java:163)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:76)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:408)
+	at us.codecraft.xsoup.xevaluator.XPathParser.combinator(XPathParser.java:110)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:74)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:408)
+	at us.codecraft.xsoup.Xsoup.compile(Xsoup.java:25)
+	at us.codecraft.webmagic.selector.XpathSelector.<init>(XpathSelector.java:21)
+	at us.codecraft.webmagic.selector.Selectors.xpath(Selectors.java:32)
+	at us.codecraft.webmagic.selector.HtmlNode.xpath(HtmlNode.java:42)
+	at com.yjyyun.processor.processor.FgjProcessor.process(FgjProcessor.java:67)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+ERROR pool-1-thread-2 us.codecraft.webmagic.Spider - process request Request{url='http://fgj.sh.gov.cn//gfxwj/20201229/1d6e2e228b134bd98cb6502093edcf24.html', method='null', extras=null, priority=0, headers={}, cookies={}} error
+org.jsoup.select.Selector$SelectorParseException: Could not parse query 'div[id='ivs_content']': unexpected token at 'id='ivs_content''
+	at us.codecraft.xsoup.xevaluator.XPathParser.byFunction(XPathParser.java:260)
+	at us.codecraft.xsoup.xevaluator.XPathParser.consumePredicates(XPathParser.java:231)
+	at us.codecraft.xsoup.xevaluator.XPathParser.findElements(XPathParser.java:163)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:76)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:408)
+	at us.codecraft.xsoup.xevaluator.XPathParser.combinator(XPathParser.java:110)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:74)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:408)
+	at us.codecraft.xsoup.Xsoup.compile(Xsoup.java:25)
+	at us.codecraft.webmagic.selector.XpathSelector.<init>(XpathSelector.java:21)
+	at us.codecraft.webmagic.selector.Selectors.xpath(Selectors.java:32)
+	at us.codecraft.webmagic.selector.HtmlNode.xpath(HtmlNode.java:42)
+	at com.yjyyun.processor.processor.FgjProcessor.process(FgjProcessor.java:67)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+ERROR pool-1-thread-2 us.codecraft.webmagic.Spider - process request Request{url='http://fgj.sh.gov.cn//gfxwj/20200812/8c5d8f505a47487da29721776f42ab56.html', method='null', extras=null, priority=0, headers={}, cookies={}} error
+org.jsoup.select.Selector$SelectorParseException: Could not parse query 'div[id='ivs_content']': unexpected token at 'id='ivs_content''
+	at us.codecraft.xsoup.xevaluator.XPathParser.byFunction(XPathParser.java:260)
+	at us.codecraft.xsoup.xevaluator.XPathParser.consumePredicates(XPathParser.java:231)
+	at us.codecraft.xsoup.xevaluator.XPathParser.findElements(XPathParser.java:163)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:76)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:408)
+	at us.codecraft.xsoup.xevaluator.XPathParser.combinator(XPathParser.java:110)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:74)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:408)
+	at us.codecraft.xsoup.Xsoup.compile(Xsoup.java:25)
+	at us.codecraft.webmagic.selector.XpathSelector.<init>(XpathSelector.java:21)
+	at us.codecraft.webmagic.selector.Selectors.xpath(Selectors.java:32)
+	at us.codecraft.webmagic.selector.HtmlNode.xpath(HtmlNode.java:42)
+	at com.yjyyun.processor.processor.FgjProcessor.process(FgjProcessor.java:67)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:414)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
